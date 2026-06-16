@@ -1,26 +1,40 @@
 # CODSOFT_task-4
 Recommendation system 
 
+
 K-Drama Recommendation System
 
 Description
 
-This project is a simple K-Drama Recommendation System developed using Python. The system asks the user to enter their favourite K-Drama and recommends another drama based on the input.
+This is a simple Python-based K-Drama Recommendation System. The program asks users to enter their favourite K-Drama and recommends a similar drama based on the user's choice.
 
 Features
 
-- User input based recommendation
-- Multiple K-Drama suggestions
-- Simple if-elif-else implementation
-- Beginner-friendly project
+- Takes user input.
+- Uses if-elif-else statements.
+- Provides drama recommendations.
+- Runs continuously using a while loop.
+- Allows users to exit the program by typing "exit".
 
-Technology Used
+Technologies Used
 
-- Python
+- Python 3
 
-How It Works
+How to Run
 
-The user enters the name of a favourite K-Drama. The program checks the input and recommends a related drama. If the drama is not available in the system, a default recommendation is displayed.
+1. Open the Python file.
+2. Run the program.
+3. Enter your favourite K-Drama.
+4. View the recommended drama.
+5. Type "exit" to close the program.
+
+Sample Input
+
+true beauty
+
+Sample Output
+
+Recommended Drama: My ID is Gangnam Beauty
 
 Author
 
